@@ -1,0 +1,8 @@
+Income: 6200.00
+Groceries: 200.00
+Insurance: 1000.00
+Rent: 500.00
+Education: 5000.00
+Entertainment: 200.00
+Others: 300.00
+Total Expenditure: 7200.00

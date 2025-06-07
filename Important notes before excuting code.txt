@@ -1,0 +1,6 @@
+This is to inform that all the files in this folder are necessary to run the program and they need an enclosed environment in correct version of python (Python 3.10.16) with anaconda navigator successfully installed and activated to run the program without flaws. This is due to a new idea we experimented: integration of AI into our coding project.
+
+Command to execute after environment setup:
+1) conda activate myenv
+2) gcc Orion.c -o orion.exe
+3) .\orion

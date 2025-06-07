@@ -1,0 +1,16 @@
+samrat21 sammy21 Samrat Poudel
+
+
+--- Monthly Expenditure and Budget Track ---
+
+Total Budget (Income): $7000.00
+
+Categories of Expenditure:
+Insurance: $1500.00 (Priority 1)
+Rent: $450.00 (Priority 2)
+Education: $5000.00 (Priority 2)
+Groceries: $200.00 (Priority 3)
+Entertainment: $100.00 (Priority 5)
+Others: $880.00 (Priority 6)
+
+Total Expenses: $8130.00
